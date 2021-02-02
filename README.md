@@ -3,10 +3,12 @@
 <a href="https://www.linkedin.com/in/felipehonorato/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
 <a href="https://www.instagram.com/felipehonorat0/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
 
-Technology lover since I was little, I'm a web and mobile developer.
+## About me
 
-#### Skills: 
+Passionate about technology with a great desire to learn more about this world.
 
-Development 💻 - JavaScript, TypeScript, ReactJS, NodeJS and React Native.
+## Qualifications 
 
-Production 🔧 - Scrum, Automated testing and TDD, Unix and linux commands, Data structure and Basic network and HTTP protocol.
+Hard skills 💻 - Bachelor in Information Systems, Software Engineering Specialist, Full-stack and Mobile developer.
+
+Soft skills 🔧 - Good communication, proactivity, ability to work under pressure, sense of leadership and creativity.
