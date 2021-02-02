@@ -12,3 +12,5 @@ Passionate about technology with a great desire to learn more about this world.
 Hard skills 💻 - Bachelor in Information Systems, Software Engineering Specialist, Full-stack and Mobile developer.
 
 Soft skills 🔧 - Good communication, proactivity, ability to work under pressure, sense of leadership and creativity.
+
+<img alt="Felipe stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=felipehonoratods&show_icons=true&hide_border=true&theme=dark" />
