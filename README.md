@@ -5,7 +5,8 @@
 
 ## About me
 
-Passionate about technology with a great desire to learn more about this world.
+Passionate about technology since I was a child, I always seek to improve myself in the area, developing several applications and projects, currently performing in the field of web development, following as the main technologies of the front-end and back-end market.
+In addition, I have been improving my skills and knowledge in agile methodologies, automated tests and design patterns.
 
 ## Qualifications 
 
