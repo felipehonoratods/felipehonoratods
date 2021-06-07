@@ -14,4 +14,22 @@ Hard skills 💻 - Bachelor in Information Systems, Software Engineering Special
 
 Soft skills 🔧 - Good communication, proactivity, ability to work under pressure, sense of leadership and creativity.
 
-<img alt="Felipe stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=felipehonoratods&show_icons=true&hide_border=true&theme=dark" />
+<p align="center">
+  <a href="https://github.com/Pedrolustosa/github-readme-stats">
+    <img
+      alt="Felipe stats"
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=felipehonoratods&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
+    />
+  </a>
+  
+  <a href="https://github.com/Pedrolustosa/github-readme-stats">
+    <img
+      alt="Felipe stats"
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipehonoratods&&layout=compact&theme=dark"
+    />
+  </a>
+</p>
