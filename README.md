@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/felipehonorato/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
 <a href="https://www.instagram.com/felipehonorat0/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
 
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=felipehonoratods&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ## About me
 
