@@ -1,5 +1,7 @@
 # Felipe Honorato 👨‍💻
 
+# 💫 About Me:
+🔭 Desenvolvedor apaixonado por tecnologia e criação de soluções inovadoras.<br>🥷 Experiência em: React, React Native, Angular, Next.js, metodologias ágeis, testes automatizados, arquiteturas modernas e Design Patterns.<br>✈️ Em busca constante de aperfeiçoamento e aprendizado.<br>🕹️ Proativo, colaborativo e com grande capacidade de resolução de problemas.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/felipe_honorato) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/felipehonorat0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipehonorato) 
