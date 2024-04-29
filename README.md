@@ -1,5 +1,3 @@
-# Felipe Honorato 👨‍💻
-
 # 💫 About Me:
 🔭 Desenvolvedor apaixonado por tecnologia e criação de soluções inovadoras.<br>🥷 Experiência em: React, React Native, Angular, Next.js, metodologias ágeis, testes automatizados, arquiteturas modernas e Design Patterns.<br>✈️ Em busca constante de aperfeiçoamento e aprendizado.<br>🕹️ Proativo, colaborativo e com grande capacidade de resolução de problemas.
 
