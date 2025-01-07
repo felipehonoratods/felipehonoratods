@@ -12,7 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=felipehonoratods&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=felipehonoratods&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=felipehonoratods&icon=0&color=0)](https://visitcount.itsvg.in)
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
